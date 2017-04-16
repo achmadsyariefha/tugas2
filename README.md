@@ -1,2 +1,3 @@
-Achmad Syarief H.A.
-H 131 16 004
+Nama : Achmad Syarief H.A.
+
+NIM : H 131 16 004
